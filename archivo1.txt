@@ -1,1 +1,2 @@
 agrega archivo1 en rama main
+agrega otra linea y se comitea desde VSC
