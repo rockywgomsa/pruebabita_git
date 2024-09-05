@@ -1,2 +1,3 @@
 agrega archivo1 en rama main
-se modifica linea2 estando en la feature/rama1
+se vuelve a modificar linea2 estando en la feature/rama1_1
+agrea linea3
